@@ -2,6 +2,7 @@
 Filled with Madhukar's Apps
 
 
+
 Some of the challenges i faced:
 
 1. Figuring out how to integrate spotify web api with the spotify SDK.
@@ -13,5 +14,8 @@ Some of the challenges i faced:
 
 As a by product of the app creation i found that, if the Android SDK is the latest version ie, 24.0.2 then even the ADT has to be updated to 24.0.2 which isn't released yet. But the patch is available which is mentioned below.
 http://dl.google.com/dl/android/adt-24.0.2.zip
+
+
+Note: Spotify does not allow content browsing if you are not a premium user. So make sure you have the premium account because the app asks for the login through browser.
 
 Altogether i throughly enjoyed coding for the app. I took 2.5 days to complete it. But effectively i took 10 hrs by providing 3 hrs per day.
